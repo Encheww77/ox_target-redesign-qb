@@ -1,11 +1,10 @@
-@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;500;600;700&display=swap");
+/* @import url("https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;500;600;700&display=swap"); */
 @font-face {
-  font-family: "Oswald-Regular";
-  src: url("Oswald-Regular.ttf") format("truetype");
+  font-family: "Itim-Regular";
+  src: url("Itim-Regular.ttf") format("truetype");
 }
 
 :root {
-  --color-default: #5870a7;
   --color-hover: #fff;
 }
 
@@ -42,10 +41,6 @@ p {
   transition: all 0.3s ease;
 }
 
-.eye-hover {
-  fill: var(--color-default);
-}
-
 #options-wrapper {
   position: absolute;
   top: calc(48.4%);
@@ -58,7 +53,7 @@ p {
   flex-direction: row;
   justify-content: flex-start;
   align-items: center;
-  font-family: "Oswald-Regular";
+  font-family: "Itim-Regular";
   text-shadow: 0px 0px 6px rgba(0, 0, 0, 0.8);
   border-radius: 50px;
   font-size: 11pt;
