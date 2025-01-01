@@ -1,6 +1,6 @@
 <div align='center'><h2><a href='https://overextended.github.io/docs/ox_target/'>Documentation</a></h2></div>
 
-## ox_target
+## ox_target for qb-core
 
 A performant and flexible standalone "third-eye" targeting resource, with additional functionality when using ox_core, esx, or qb-core.
 
