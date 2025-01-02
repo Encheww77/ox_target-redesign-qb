@@ -2,6 +2,8 @@
 
 ## ox_target for qb-core
 
+https://github.com/user-attachments/assets/979e4b5c-4d61-460d-bb97-b6067650c690
+
 A performant and flexible standalone "third-eye" targeting resource, with additional functionality when using ox_core, esx, or qb-core.
 
 ox_target is the successor to qtarget, which was a mostly-compatible fork of bt-target.
