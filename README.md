@@ -2,7 +2,7 @@
 
 ## ox_target for qb-core
 
-https://github.com/user-attachments/assets/979e4b5c-4d61-460d-bb97-b6067650c690
+https://github.com/user-attachments/assets/70414af4-b79e-4432-aa4b-de54c08ebdbd
 
 A performant and flexible standalone "third-eye" targeting resource, with additional functionality when using ox_core, esx, or qb-core.
 
